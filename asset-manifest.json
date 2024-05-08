@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/FormularioDACE/static/css/main.e3638030.css",
+    "main.js": "/FormularioDACE/static/js/main.900d2406.js",
+    "static/js/787.4d5edb77.chunk.js": "/FormularioDACE/static/js/787.4d5edb77.chunk.js",
+    "static/media/ecsa.jpg": "/FormularioDACE/static/media/ecsa.32b6b460ff1533886e05.jpg",
+    "static/media/logoUdo.png": "/FormularioDACE/static/media/logoUdo.bb93331c2a1c0c7847a4.png",
+    "index.html": "/FormularioDACE/index.html",
+    "main.e3638030.css.map": "/FormularioDACE/static/css/main.e3638030.css.map",
+    "main.900d2406.js.map": "/FormularioDACE/static/js/main.900d2406.js.map",
+    "787.4d5edb77.chunk.js.map": "/FormularioDACE/static/js/787.4d5edb77.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3638030.css",
+    "static/js/main.900d2406.js"
+  ]
+}
